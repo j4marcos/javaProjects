@@ -1,0 +1,4 @@
+com\mycompany\systemproperties\SystemLang.class
+com\mycompany\systemproperties\SystemHour.class
+com\mycompany\systemproperties\SystemProperties.class
+com\mycompany\systemproperties\SystemWindowSize.class
