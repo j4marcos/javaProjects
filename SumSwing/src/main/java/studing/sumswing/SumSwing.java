@@ -12,6 +12,6 @@ public class SumSwing {
 
     public static void main(String[] args) {
         String[] params = {"oioi","oioi"};
-        SumInterface.main({"oioi","oioi"});
+        SumInterface.main(params);
     }
 }
