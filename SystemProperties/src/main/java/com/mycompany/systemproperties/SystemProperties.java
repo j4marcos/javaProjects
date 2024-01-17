@@ -12,7 +12,7 @@ public class SystemProperties {
 
     public static void main(String[] args) {
       
-        
+        NewJFrame.main();
         String date = SystemHour.getDate();
         String lang = SystemLang.getSystemLanguage();
         Object windowSize = SystemWindowSize.getScreemSize();
